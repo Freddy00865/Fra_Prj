@@ -64,9 +64,8 @@ body, html {
         const latitude = position.coords.latitude;
         const longitude = position.coords.longitude;
         
-        // Salva la posizione attuale nel modo che preferisci,
-        // ad esempio, puoi utilizzare Ajax per inviarla al server.
-        // In questo esempio, la memorizziamo semplicemente nella console.
+        // Salva la posizione Corretta!!
+       
         console.log(`Current position: Latitude=${latitude}, Longitude=${longitude}`);
       }
 
